@@ -1,5 +1,5 @@
 const linksSocialMedia = {
-  github: 'JaqueTrevizan',
+  github: 'jaquetrevizan',
   facebook: 'jaque.trevizan',
   instagram: 'jaque.trevizan',
   linkedin: 'in/jaquelinetrevizan'
